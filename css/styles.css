@@ -9,7 +9,7 @@
 }
 
 .body {
-  font-family: Rodoto sans-serif;
+  font-family: Rodoto, sans-serif;
   font-style: normal;
   color: #434455;
 }
@@ -28,7 +28,7 @@
 }
 
 .header-logo {
-  font-family: Raleway sans-serif;
+  font-family: Raleway, sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -53,18 +53,15 @@
 }
 
 .header-nav:hover {
-  color: var(--light-blue);
+  color: #404bbf;
 }
 
 .header-nav:focus {
-  color: var(--light-blue);
+  color: #404bbf;
 }
 
 .header-address {
   font-style: normal;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--light-black);
 }
 
 .header-address:hover,
@@ -87,7 +84,7 @@
 }
 
 .page-btn {
-  font-family: Roboto sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -155,7 +152,7 @@
 }
 
 .footer-logo {
-  font-family: Raleway sans-serif;
+  font-family: Raleway, sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -167,7 +164,7 @@
   text-decoration: none;
 }
 
-.footer-logo span {
+.span {
   color: var(--black-white);
 }
 .footer-text {
