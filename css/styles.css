@@ -9,7 +9,7 @@
 }
 
 .body {
-  font-family: "Rodoto" sans-serif;
+  font-family: "Rodoto", sans-serif;
   font-style: normal;
   color: #434455;
 }
@@ -28,7 +28,7 @@
 }
 
 .header-logo {
-  font-family: "Raleway" sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -64,24 +64,6 @@
   font-style: normal;
 }
 
-.header-mail,
-.header-tel {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--light-black);
-}
-
-.header-mail:hover,
-.header-tel:hover {
-  color: var(--light-blue);
-}
-.header-mail:focus,
-.header-tel:focus {
-  color: var(--light-blue);
-}
-
 /*--------------- PAGE ----------- */
 .page {
   background: var(--back-color);
@@ -97,7 +79,7 @@
 }
 
 .page-btn {
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
