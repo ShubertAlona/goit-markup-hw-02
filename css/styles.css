@@ -9,7 +9,7 @@
 }
 
 .body {
-  font-family: "Rodoto", sans-serif;
+  font-family: Rodoto, sans-serif;
   font-style: normal;
   color: #434455;
 }
@@ -28,7 +28,7 @@
 }
 
 .header-logo {
-  font-family: "Raleway", sans-serif;
+  font-family: Raleway, sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -87,7 +87,7 @@
 }
 
 .page-btn {
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -155,7 +155,7 @@
 }
 
 .footer-logo {
-  font-family: "Raleway", sans-serif;
+  font-family: Raleway, sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -189,7 +189,7 @@
 /*--------------- PORTFOLIO------------- */
 
 .btn {
-  font-family: "Roboto" sans-serif;
+  font-family: Roboto, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
