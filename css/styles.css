@@ -52,7 +52,7 @@
   color: #2e2f42;
 }
 
-. .header-nav:hover {
+.header-nav:hover {
   color: #404bbf;
 }
 
@@ -76,7 +76,9 @@
   color: #434455;
 }
 
-.address-nav:hover,
+.address-nav:hover {
+  color: #404bbf;
+}
 .address-nav:focus {
   color: #404bbf;
 }
