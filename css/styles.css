@@ -52,7 +52,7 @@
   color: #2e2f42;
 }
 
-.header-nav:hover {
+. .header-nav:hover {
   color: #404bbf;
 }
 
@@ -67,6 +67,18 @@
 .header-address:hover,
 .header-address:focus {
   color: var(--light-blue);
+}
+
+.address-nav {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.address-nav:hover,
+.address-nav:focus {
+  color: #404bbf;
 }
 
 /*--------------- PAGE ----------- */
@@ -136,7 +148,7 @@
 .team-heading {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
