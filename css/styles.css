@@ -1,3 +1,9 @@
+.body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  font-style: normal;
+}
+
 :root {
   --back-color: #2e2f42;
   --white: #ffffff;
@@ -6,12 +12,6 @@
   --light-black: #434455;
   --black-white: #f4f4fd;
   --light-white: #e7e9fc;
-}
-
-.body {
-  font-family: "Roboto", sans-serif;
-  color: #434455;
-  font-style: normal;
 }
 
 .link {
