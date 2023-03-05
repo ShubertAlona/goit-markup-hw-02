@@ -49,7 +49,7 @@
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--back-color);
+  color: #434455;
 }
 
 .header-nav:hover {
@@ -60,7 +60,7 @@
   color: #404bbf;
 }
 
-.header-address {
+.address {
   font-style: normal;
 }
 
@@ -165,7 +165,7 @@
 }
 
 .span {
-  color: var(--black-white);
+  color: #f4f4fd;
 }
 .footer-text {
   font-size: 16px;
@@ -186,7 +186,7 @@
 /*--------------- PORTFOLIO------------- */
 
 .btn {
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
